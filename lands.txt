@@ -1,0 +1,10 @@
+101, Kathmandu, South, 5, 60000, Available
+102, Lalitpur, East, 12, 100000, Available
+103, Taplejung, South, 15, 10000, Available
+104, Solukhumbu, West, 13, 15000, Available
+105, Bhojpur, West, 25, 60000, Unavailable
+106, Rasuwa, North, 5, 40000, Available
+107, Darchula, East, 14, 50000, Available
+108, Makawanpur, East, 3, 15000, Available
+109, Khotang, North, 24, 70000, Available
+110, Sankhuwasabha, North, 14, 50000, Available
